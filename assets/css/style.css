@@ -28,7 +28,7 @@ h3 {
 }
 
 .hidden-heading {
-    display:none;
+    display: none;
 }
 
 /* Header */
@@ -261,9 +261,9 @@ main {
     }
 
     /* Gallery */
-#photos {
-    column-count: 4;
-}
+    #photos {
+        column-count: 4;
+    }
 }
 
 #reasons {
